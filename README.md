@@ -22,7 +22,7 @@
 
 ## Features
 
-- Full featured shopping cart
+- Full-featured shopping cart
 - Product reviews and ratings
 - Top products carousel
 - Product pagination
@@ -31,8 +31,8 @@
 - Admin product management
 - Admin user management
 - Admin Order details page
-- Mark orders as delivered option
-- Checkout process (shipping, payment method, etc)
+- Mark orders as a delivered option
+- Checkout process (shipping, payment method, etc.)
 - PayPal / credit card integration with [react-paypal-js](https://www.npmjs.com/package/@paypal/react-paypal-js)
 - Database seeder (products & users)
 
@@ -105,4 +105,4 @@ npm run data:destroy
 
 ## Disclaimer
 
-This project is a part of a [MERN Stack](https://www.udemy.com/course/mern-ecommerce/) course and not intended to sell real life products, or make transit payments
+This project is a part of a [MERN Stack](https://www.udemy.com/course/mern-ecommerce/) course and is not intended for selling real-life products or making transit payments
