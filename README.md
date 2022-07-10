@@ -54,7 +54,7 @@ Basic CRUD functionality for products
 
 #### Get all products
 
-```http
+```
   GET /api/products
 ```
 
@@ -64,7 +64,7 @@ Basic CRUD functionality for products
 
 #### Get product
 
-```http
+```
   GET /api/products/${id}
 ```
 
@@ -77,20 +77,20 @@ Basic CRUD functionality for products
 ### Run Locally
 ```bash
 # Run backend only
-> npm run server
+npm run server
 ```
 ```bash
 # Run frontend only
-> npm run client
+npm run client
 ```
 ```bash
 # Run frontend (:3000) & backend (:5000)
-> npm run dev
+npm run dev
 ```
 ### Build & Deploy
 ```bash
 # Create production build
-> npm run heroku-postbuild
+npm run heroku-postbuild
 ```
 ### Database Seeder
 ```bash
