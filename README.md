@@ -1,6 +1,7 @@
 
 # ProShop
 > eCommerce platform built with the MERN Stack
+
 ![App Screenshot](https://res.cloudinary.com/daniilrobnikov/image/upload/v1657446521/proshop/ProShop_Home_Page_lnmho3.png)
 ## Front-End
  - Deployment: [Heroku](https://www.heroku.com/platform)
@@ -76,23 +77,19 @@ Basic CRUD functionality for products
 ### Run Locally
 ```bash
 # Run backend only
-
 > npm run server
 ```
 ```bash
 # Run frontend only
-
 > npm run client
 ```
 ```bash
 # Run frontend (:3000) & backend (:5000)
-
 > npm run dev
 ```
 ### Build & Deploy
 ```bash
 # Create production build
-
 > npm run heroku-postbuild
 ```
 ### Database Seeder
@@ -108,4 +105,4 @@ npm run data:destroy
 
 ## Disclaimer
 
-This site is not fully developed and designed only for learning purposes, visit [Sitemap](https://nextjs.org) to see all completed pages 
+This project is a part of a [MERN Stack](https://www.udemy.com/course/mern-ecommerce/) course and not intended to sell real life products, or make transit payments
